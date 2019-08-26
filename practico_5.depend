@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1566780001 source:c:\users\adminpc\desktop\eda\practico_5\main.cpp
+	<iostream>
+	"./lib/mostrar.hpp"
+
+1566780001 trar.hpp"
+
+1566780047 c:\users\adminpc\desktop\eda\practico_5\lib\mostrar.hpp
+
+1566823797 source:/home/tecnologo/Escritorio/EDA_2019/practico_5/main.cpp
+	<iostream>
+	"./lib/arreglo.hpp"
+	"./lib/borrar_arreglo.hpp"
+	"./lib/crear_arreglo.hpp"
+	"./lib/inicializar.hpp"
+	"./lib/insertar.hpp"
+	"./lib/lugar.hpp"
+	"./lib/lugar_vacio.hpp"
+	"./lib/mostrar.hpp"
+	"./lib/buscar.hpp"
+
+1566821786 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/arreglo.hpp
+
+1566822267 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/borrar_arreglo.hpp
+
+1566822264 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/crear_arreglo.hpp
+
+1566822437 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/inicializar.hpp
+
+1566822947 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/insertar.hpp
+
+1566822447 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/lugar.hpp
+
+1566821436 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/lugar_vacio.hpp
+
+1566822458 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/mostrar.hpp
+
+1566821339 /home/tecnologo/Escritorio/EDA_2019/practico_5/lib/buscar.hpp
+
